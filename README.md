@@ -12,7 +12,7 @@
 - [ ] **risc-v**
 - [x] risc-v 特权架构
 - [x] risc-v 指令集指南
-- [ ] 计算机组成与涉及 risc-v版
+- [ ] 计算机组成与设计 risc-v版
 - [ ] riscv-privileged-20211203
 - [ ] riscv-spec-20191213
 - [ ] **lab**
