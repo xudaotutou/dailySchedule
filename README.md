@@ -1,5 +1,24 @@
 # dailySchedule
 
+## 任务清单
+
+- [ ] **rust**
+- [x] rustlings
+- [x] rust trait
+- [x] 32 Rust Quizes
+- [ ] rust [宏小册](https://danielkeep.github.io/tlborm/book/index.html)
+- [ ] rust [宏小册续写](https://veykril.github.io/tlborm/)
+- [ ] [exercisms.io](https://exercism.org/) 快速练习
+- [ ] **risc-v**
+- [x] risc-v 特权架构
+- [x] risc-v 指令集指南
+- [ ] 计算机组成与涉及 risc-v版
+- [ ] riscv-privileged-20211203
+- [ ] riscv-spec-20191213
+- [ ] **lab**
+- [x] lab_0_1
+- [ ] lab_0_2
+
 ## 第一天（2022.10.24）
 
 * 开始刷rustlings
@@ -37,3 +56,5 @@
 ## 第七天 (2022.10.30)
 
 * 看了《计算机组成与设计》的前两章，优点理解前几天看的东西了
+
+## 第八天 (2022.11.2)
